@@ -38,11 +38,17 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 ## 👨‍💻 About Me
 
 🎓 Currently pursuing Information Science & Engineering
+
 💻 Building software and exploring different technologies
+
 🌱 Continuously learning and improving my development skills
-🎬 Interested in video editing and visual storytelling
+
+🎬 Interested in video editing
+
 💡 Enjoy solving problems and creating useful projects
+
 🔍 Always curious to explore new tools and technologies
+
 
 ---
 
