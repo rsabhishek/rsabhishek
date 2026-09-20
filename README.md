@@ -5,8 +5,6 @@
 
 <br>
 
-<h1 style="color:#00AFFF;">Exploring ISE </h1>
-
 <br>
 
 <!-- Social Buttons -->
@@ -20,7 +18,7 @@
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=shubhamkerure07&label=Profile%20Views&color=38A9D5&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rsabhishek&label=Profile%20Views&color=38A9D5&style=for-the-badge" />
 
 <br><br>
 
