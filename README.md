@@ -61,52 +61,7 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 
 ---
 
-## 🛠️ Skills & Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-# ∑ Mathematics Lab
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+Mathematics+Lab;Explore+%E2%88%91+Integrals+%E2%88%9E+Limits+%CF%80+Geometry;Think+%E2%80%A2+Calculate+%E2%80%A2+Visualize+%E2%80%A2+Discover" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mathematics-∞-58A6FF?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-  <img src="https://img.shields.io/badge/Calculus-∫-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linear_Algebra-Σ-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Probability-P-22C55E?style=for-the-badge" />
-</p>
-
----
-
-## ✨ Mathematical Universe
-
-<p align="center">
-
-```text
-             ∞
-          ┌───────┐
           │   ∑   │
           │       │
      π ───┤  ∫ f  │─── e
