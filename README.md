@@ -1,6 +1,6 @@
 # 👋 Hi, I'm RS ABHISHEK
 
-### 💻 Developer | Programmer | Tech Enthusiast
+### 💻 Developer | Programmer | Video Editor
 
 I'm **RS ABHISHEK**, passionate about programming, web development, and building creative projects.
 
