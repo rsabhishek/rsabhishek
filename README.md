@@ -3,6 +3,15 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB0,100:ADB1B5&height=220&section=header&text=RS%20ABHISHEK&fontSize=52&fontColor=061A33&fontAlignY=45&%7C%20ISE%20%7C%20ENGINEERING&descSize=25&descAlignY=68&descColor=061A33" width="100%"/>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=40&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=IS+Engineering+Student"
+      alt="IS Engineering Student"
+    />
+  </a>
+</h1>
+
 <br>
 
 <br>
