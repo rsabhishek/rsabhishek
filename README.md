@@ -93,5 +93,3 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 </p>
 
 ---
-
-## 🐍 Contribution Snake
