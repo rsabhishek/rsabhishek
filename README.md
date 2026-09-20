@@ -1,3 +1,34 @@
+<div align="center">
+
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB0,100:ADB1B5&height=220&section=header&text=SHUBHAM%20KERURE&fontSize=52&fontColor=061A33&fontAlignY=45&desc=AI%20%7C%20ROBOTICS%20%7C%20ENGINEERING&descSize=25&descAlignY=68&descColor=061A33" width="100%"/>
+
+<br>
+
+<h1 style="color:#00AFFF;">Exploring ISE </h1>
+
+<br>
+
+<!-- Social Buttons -->
+
+<a href="https://github.com/RS ABHISHEK">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00AFFF" />
+</a>
+<a href="https://www.linkedin.com/in/rs-abhishek-179753432/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A8ED9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=shubhamkerure07&label=Profile%20Views&color=38A9D5&style=for-the-badge" />
+
+<br><br>
+
+<hr style="border: 1px solid white; width: 80%;">
+
+</div>
+
+
 # 👋 Hi, I'm RS ABHISHEK
 
 ### 💻 Developer | Programmer | Video Editor
@@ -59,43 +90,3 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
-
-<h4 align="center">Keep Coding • Keep Learning • Keep Building 🚀</h4>
-
-<div align="center">
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB0,100:ADB1B5&height=220&section=header&text=SHUBHAM%20KERURE&fontSize=52&fontColor=061A33&fontAlignY=45&desc=AI%20%7C%20ROBOTICS%20%7C%20ENGINEERING&descSize=25&descAlignY=68&descColor=061A33" width="100%"/>
-
-<br>
-
-<h1 style="color:#00AFFF;">Exploring AI & Robotics</h1>
-
-<br>
-
-<!-- Social Buttons -->
-
-<a href="https://github.com/shubhamkerure">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00AFFF" />
-</a>
-<a href="https://www.linkedin.com/in/shubham-kerure/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A8ED9?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EF4035?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=shubhamkerure07&label=Profile%20Views&color=38A9D5&style=for-the-badge" />
-
-<br><br>
-
-<hr style="border: 1px solid white; width: 80%;">
-
-</div>
