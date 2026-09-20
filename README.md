@@ -1,42 +1,71 @@
-<div align="center">
+# 👋 Hi, I'm RS ABHISHEK
 
-<svg width="100%" height="230" viewBox="0 0 1536 343" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1536" height="343" fill="#1B5465"/>
+### 💻 Developer | Programmer | Tech Enthusiast
 
-  <!-- Bottom wave -->
-  <path
-    d="M0 235
-       C180 250 300 260 480 248
-       C680 235 760 205 930 220
-       C1110 235 1270 205 1536 230
-       L1536 343
-       L0 285 Z"
-    fill="#193D4B"
-  />
+I'm **RS ABHISHEK**, passionate about programming, web development, and building creative projects.
 
-  <!-- Name -->
-  <text
-    x="768"
-    y="165"
-    text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="82"
-    font-weight="700"
-    fill="white">
-    RS Abhishek
-  </text>
+---
 
-  <!-- Subtitle -->
-  <text
-    x="768"
-    y="235"
-    text-anchor="middle"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="32"
-    font-weight="600"
-    fill="white">
-    ISE | Engineering
-  </text>
-</svg>
+## 👨‍💻 About Me
 
-</div>
+- 🔭 Currently working on exciting projects
+- 🌱 Learning and exploring new technologies
+- 💡 Interested in Software Development & Web Development
+- 🚀 Always looking to learn, build, and improve
+- 🎯 Goal: Create useful and innovative projects
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<h4 align="center">Keep Coding • Keep Learning • Keep Building 🚀</h4>
