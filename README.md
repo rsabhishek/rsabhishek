@@ -61,13 +61,3 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 
 ---
 
-
-          │   ∑   │
-          │       │
-     π ───┤  ∫ f  │─── e
-          │       │
-          │  √x   │
-          └───────┘
-             │
-             ↓
-          ∇ · F = 0
