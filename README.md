@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB0,100:ADB1B5&height=220&section=header&text=RS%20ABHISHEK&fontSize=52&fontColor=061A33&fontAlignY=45&%7C%20ISE%20%7C%20ENGINEERING&descSize=25&descAlignY=68&descColor=061A33" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB0,100:ADB1B5&height=220&section=header&text=RS%20ABHISHEK&fontSize=52&fontColor=061A33&animation=fadeIn&desc=ISE%20Student%20%7C%20Developer%20%7C%20Video%20Editor&descSize=25&descAlignY=68&descColor=061A33" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -84,5 +82,9 @@ I'm **RS ABHISHEK**, passionate about programming, web development, and building
 
 
 ---
+
+<div align="center">
+
+
 
 
