@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D8BB1,100:ADB1B5&height=210&section=header&text=RS%20ABHISHEK&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=ISE%20Student%20%7C%20Developer%20%7C%20Video%20Editor&descSize=25&descAlignY=68&descColor=061A33" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=RS%20ABHISHEK&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ISE%20Student%20%7C%20Developer%20%7C%20Video%20Editor&descAlignY=55&descSize=20" />
+</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img
