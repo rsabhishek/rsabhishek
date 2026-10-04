@@ -1,6 +1,13 @@
-<!-- 🎮 NEW ATTRACTIVE HEADER (Cyber Glitch Style) -->
+<!-- 🎮 NEW ATTRACTIVE HEADER (ASCII ART BANNER) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0D1117,100:000000&height=220&section=header&text=RS%20ABHISHEK&fontSize=65&fontColor=00AEEF&animation=twinkling&fontAlignY=42&desc=PLAYER%201%20READY&descAlignY=65&descSize=20&descColor=ffffff&stroke=00AEEF&strokeWidth=1" width="100%" />
+  <pre>
+██████╗ ███████╗    █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗
+██╔══██╗██╔════╝   ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝
+██████╔╝███████╗   ███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝ 
+██╔══██╗╚════██║   ██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗ 
+██║  ██║███████║   ██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗
+╚═╝  ╚═╝╚══════╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+  </pre>
 </div>
 
 <!-- ⌨️ ANIMATED TYPING SUBTITLE -->
