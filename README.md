@@ -89,4 +89,8 @@
 
 <img width="1000" height="300" alt="From Klickpin com- Try these clever ways to style your reception ideas that turn ordinary ideas into scroll-stopping inspiration with realistic id" src="https://github.com/user-attachments/assets/a7520512-f991-4766-84b7-49070c18c16c" />
 
+<!-- 🌊 ANIMATED FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0066CC,100:003366&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+</div>
 
